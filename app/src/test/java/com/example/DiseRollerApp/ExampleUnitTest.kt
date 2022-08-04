@@ -1,4 +1,4 @@
-package com.example.dicerollerjuly31
+package com.example.DiseRollerApp
 
 import org.junit.Test
 

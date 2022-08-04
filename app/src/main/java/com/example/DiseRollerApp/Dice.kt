@@ -1,4 +1,4 @@
-package com.example.dicerollerjuly31
+package com.example.DiseRollerApp
 
 class Dice (val numSides: Int) { // Primary Constructor
 
